@@ -1,4 +1,4 @@
-# antd-demo
+# AntvCustomTreeTable-demo
 
 ## Project setup
 ```
@@ -15,10 +15,5 @@ pnpm run serve
 pnpm run build
 ```
 
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ant-design-vue 1.7.8 的table组件不支持树形父子数据级联功能，
+模拟开发这个功能
